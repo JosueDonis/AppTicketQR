@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ticketQR</string>
+    <string name="title_activity_main">ticketQR</string>
+    <string name="package_name">com.pentcloud.ticketqr</string>
+    <string name="custom_url_scheme">com.pentcloud.ticketqr</string>
+</resources>

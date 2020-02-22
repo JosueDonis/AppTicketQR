@@ -1,0 +1,8 @@
+{
+  "appId": "com.pentcloud.ticketqr",
+  "appName": "ticketQR",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
